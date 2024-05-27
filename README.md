@@ -105,8 +105,8 @@ make
 sudo make install
 ```
 
-Disable LRO & GRO using a service
-(this is the service content)
+You may need to Disable LRO & GRO using a service
+(this is the service content for that)
 
 ```
 [Unit] 
