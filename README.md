@@ -1,6 +1,8 @@
 ![Screenshot_2024-05-27_19_44_14 1](https://github.com/ELPatrinum/Intrusion-Detection-System-IDS-/assets/121964622/6877010a-12e6-4bf2-b7ae-9230c9a36fcf)
 # Intrusion-Detection-System-IDS-
 setting up and configuring an Intrusion detection system taking Snort as an example and using it for network monitoring and investigating a packet capture
+
+
 if you have any problem installing snort or the command
 ```
 sudo apt-get instalkl snort
